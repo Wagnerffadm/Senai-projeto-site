@@ -11,7 +11,7 @@ Projeto Web - Site com atores do filme e venda de ingresso para o filme do Batma
 </p>
 
 <p align="center">
-  <img alt="projeto da store" src=".github/pageBatman.jpg" width="100%">
+  <img alt="projeto do Batman" src=".github/pageBatman.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
