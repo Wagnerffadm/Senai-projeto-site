@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site é um projeto que mostra a flexibilidade para pessoas que buscam mais facilidade e eficiência em um site, tornando assim os pedido e solicitações mais ágeis e precisa através de uma página leve fácil acesso, 
+O site é um projeto que mostra a flexibilidade para pessoas que buscam mais facilidade e eficiência em um site, tornando assim os pedido e solicitações mais ágeis e precisa através de uma página leve fácil acesso.
 
 Desenvoldido por: [Wagner Ferreira](https://www.instagram.com/wagnerffadm/)
