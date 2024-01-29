@@ -1,5 +1,5 @@
 
-<h1 align="center">  Page do Filme Batman </h1>
+<h1 align="center">  Page do Filme Batman. </h1>
 
 <p align="center">
 Projeto Web - Site com atores do filme e venda de ingresso para o filme do Batman.

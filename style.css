@@ -51,7 +51,7 @@ li {
     transition: .3s;    
 }
 li:hover { 
-    color: var(--color-houver)
+    color: var(--color-red)
 }
 #banner {
     background-image: url('https://images3.alphacoders.com/120/1209624.jpg');
@@ -86,7 +86,7 @@ li:hover {
 }
 
 .description {
-    color: #fff;
+    color: var(--color-white);
     font-size: 19px;
     font-family: 'PoppinsRegular', 'Rubik', sans-serif;
 
@@ -96,8 +96,8 @@ li:hover {
 .button {
     width: 200px;
     height: 60px;
-    background-color: #D21617;
-    color: #fff;
+    background-color: var(--color-red);
+    color: var(--color-white);
     padding: 8px 10px;
     border-radius: 5px;
     cursor: pointer;
@@ -113,7 +113,7 @@ li:hover {
 }
 
 .button:hover {
-    background-color: #fff;
+    background-color: var(--color-white);
     color: #000;
 }
 
@@ -164,14 +164,14 @@ li:hover {
 }
 
 footer {
-    height:  90px;    
+    height:  100px;    
     background-color: var(--color-text);
     color: var(--color-white);
 
     font-size: 19px;
-    line-height: 28px;  
+    
     text-align: center;  
-
+    font-weight: bold;
     align-items: center;
     justify-content: center;
        
@@ -183,7 +183,7 @@ footer a {
     font-weight: bold;
 }
 footer:hover {
-    color: var(--color-houver)
+    color: var(--color-red);
 }
 
 
